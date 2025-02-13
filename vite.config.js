@@ -2,5 +2,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "./", // Replace 'site_v2' with your repository name
+  base: "/site/", // Replace 'site_v2' with your repository name
 });
